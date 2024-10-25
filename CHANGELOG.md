@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`aa66ef4`](https://github.com/stdlib-js/stdlib/commit/aa66ef43fbd484c41c266300702d4f72496ff1e3) - **docs:** fix comment _(by Athan Reines)_
 -   [`50f1d89`](https://github.com/stdlib-js/stdlib/commit/50f1d890ee83daa67370a78753c1db1be44d92cc) - **docs:** fix comment _(by Athan Reines)_
 -   [`1d23b34`](https://github.com/stdlib-js/stdlib/commit/1d23b34a57833b3ab879c68b8c2a6fe8cb4445c8) - **docs:** fix comments _(by Athan Reines)_
 -   [`5a7ec02`](https://github.com/stdlib-js/stdlib/commit/5a7ec022b24a9081169b23ceea806c53d8ab5a4d) - **docs:** fix missing license header _(by Athan Reines)_
