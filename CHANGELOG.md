@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`5a7ec02`](https://github.com/stdlib-js/stdlib/commit/5a7ec022b24a9081169b23ceea806c53d8ab5a4d) - **docs:** fix missing license header _(by Athan Reines)_
 -   [`f1e59ff`](https://github.com/stdlib-js/stdlib/commit/f1e59ff23bdc7b924746d39ef7bf2fc45a9f9e6d) - **build:** update compiler flags and export resolution _(by Athan Reines)_
 -   [`5c30260`](https://github.com/stdlib-js/stdlib/commit/5c302603389144ab1f9e88ce926d8a504dfe1294) - **docs:** fix missing comma _(by Athan Reines)_
 -   [`01e414b`](https://github.com/stdlib-js/stdlib/commit/01e414bd9a03e578d44e2c284fcc77ce2fbcd825) - **docs:** fix examples in `blas/base/dnrm2-wasm` [(#3018)](https://github.com/stdlib-js/stdlib/pull/3018) _(by Aman Bhansali)_
