@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import dnrm2 from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-base-wasm-dnrm2@esm/index.mjs';
+import dnrm2 from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-base-wasm-dnrm2@v0.1.0-esm/index.mjs';
 ```
 
 #### dnrm2.main( N, x, strideX )
@@ -270,7 +270,7 @@ The function has the following additional parameters:
 <script type="module">
 
 import discreteUniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-discrete-uniform@esm/index.mjs';
-import dnrm2 from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-base-wasm-dnrm2@esm/index.mjs';
+import dnrm2 from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-base-wasm-dnrm2@v0.1.0-esm/index.mjs';
 
 var opts = {
     'dtype': 'float64'
