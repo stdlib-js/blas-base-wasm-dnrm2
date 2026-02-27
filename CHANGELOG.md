@@ -2,6 +2,40 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2026-02-27)
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`ea168c7`](https://github.com/stdlib-js/stdlib/commit/ea168c728e02cb236ed771716c785534b6b77dad) - **bench:** refactor to use string interpolation in `blas/base/wasm/dnrm2` [(#10509)](https://github.com/stdlib-js/stdlib/pull/10509) _(by Shubham)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Shubham
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.1.1">
 
 ## 0.1.1 (2026-02-08)
